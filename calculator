@@ -8,4 +8,9 @@ e=a/b
 print("Division is=",e)
 f=a-b
 print("subtraction=",f)
+dict1={"name":"naresh","rollno":54,"subject":"computer science"}
+print("All elements from dictionary")
+print("first element=",dict1[0])
+print("print elements ranging from=",dict1[0:3])
+print("the elements=",values[])
 #This is my first python program
